@@ -1,0 +1,25 @@
+@media (max-width: 430px) {
+
+
+
+    .container {
+        max-width: 350px;
+        min-height: 350px;
+        padding: 20px 0;
+    }
+
+    .texto-conselho {
+        font-size: 25px;
+        font-weight: normal;
+        margin: 25px  20px;
+    }
+
+    .divisoria {
+        width: 100%;
+        height: 16px;
+        background-image: url('../images/pattern-divider-mobile.svg');
+        background-size: 295px;
+        background-repeat: no-repeat;
+       
+    }
+}
